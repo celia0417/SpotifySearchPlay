@@ -1,0 +1,48 @@
+#find_song{
+	margin-left:12px;
+	margin-top: -8px;
+	width:95px;
+	text-align:center;
+}
+#load_more{
+	margin-left:12px;
+	margin-top: -8px;
+	width:95px;	
+	text-align:center;
+}
+#spotify_image{
+	margin-right:12px;
+}
+#song_name{
+	margin-left:75px;
+	margin-right:12px;
+}
+#artist_name{
+	margin-right: 12px;
+}
+#album_name{
+	margin-right: 12px;
+}
+#genre{
+	margin-right: 12px;
+}
+
+.nav-choice{
+	position:relative;
+    left: 6px;
+    top: -3px;
+}
+
+#song_list{
+	margin-left:10px;
+	margin-right:10px;
+}
+#the-footer {
+    margin-top:30px;
+    margin-bottom:20px;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+    text-align:center;
+}
+
